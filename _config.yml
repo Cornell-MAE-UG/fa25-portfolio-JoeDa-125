@@ -17,7 +17,7 @@ baseurl                  : "/fall-2025-portfolio-JoeDa-125" # Set this to your r
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: dark # light/default, dark, or aqua
 
 sass:
   style: compressed

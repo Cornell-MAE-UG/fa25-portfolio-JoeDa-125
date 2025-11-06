@@ -30,7 +30,7 @@ This project demonstrated creative problem-solving skills and innovative enginee
 **Design Process**
 Here is an image of an early CAD design for the project. Also shown below is one of our early prototypes. It was discovered from early prototypes that our design was unbalanced and would tip over if no one was sitting in the chair. This problem was then addressed in future designs, with counterbalances placed along the chair to ensure stability during normal use.
 
-![Shaded rendering of earlier version]({{ site.baseurl }}/assets/images/radio-machine.jpg){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ site.baseurl }}/assets/images/radio-machine.jpg){: .inline-image-l}
 ![Chair_Photo]({{ site.baseurl }}/assets/images/Chair_Photo.png){: .inline-image-l}
 
 
