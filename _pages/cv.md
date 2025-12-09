@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-Download my <a href="{{ "/_pages/CV/" |
+Download my <a href="{{ "/_pages/CV.pdf/" |
 relative_url }}">CV</a>
 
 
