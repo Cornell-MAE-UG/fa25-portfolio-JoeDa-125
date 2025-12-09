@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-Download my <a href="{{ '/assets/Joseph_Dalton_CV.pdf' | relative_url }}">CV</a>
+Download my <a href="{{ '/assets/CV.pdf' | relative_url }}">CV</a>
 
 
 **Email:** [jmd546@cornell.edu](mailto:jmd546@cornell.edu) | | | **Phone:** +1 917 525 7191
