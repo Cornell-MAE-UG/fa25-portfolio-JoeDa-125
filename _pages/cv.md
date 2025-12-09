@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]("/assets/CV.pdf") in PDF format.
+[Download my CV]("/pages/CV.pdf") in PDF format.
 
 
 **Email:** [jmd546@cornell.edu](mailto:jmd546@cornell.edu) | | | **Phone:** +1 917 525 7191
