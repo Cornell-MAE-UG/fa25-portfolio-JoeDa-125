@@ -2,7 +2,7 @@
 layout: project
 title: Torque Wrench Design and Analysis
 description: Class project with Graphs
-technologies: [MATLAB, python]
+technologies: [MATLAB, ANSYS]
 image: /assets/images/TorqueWrenchCover.png
 ---
 
