@@ -3,7 +3,7 @@ layout: project
 title: Original Design Prototype
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/Chair_CADpng
+image: /assets/images/Chair_CAD.png
 ---
 
 For our mechanical design class, we were asked to design and prototype a device to solve a problem of our choosing. What our team ended up choosing was the market-defined problem of user's lack of time to go to the gym, which was negatively affecting both their mental and physical health. This project showcased innovative thinking, problem solving skills, and the ability to listen to user needs and feedback when developing tangible prototypes.
