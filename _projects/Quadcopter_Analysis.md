@@ -2,7 +2,7 @@
 layout: project
 title: Quadcopter Analysis
 description: Analysis of quadcopter dynamics
-technologies: [MATLABs]
+technologies: [MATLAB]
 image: /assets/images/drone-types-quadcopter.jpg
 permalink: /projects/Quadcopter_Analysis/
 ---
