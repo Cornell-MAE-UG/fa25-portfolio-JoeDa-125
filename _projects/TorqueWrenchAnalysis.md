@@ -9,10 +9,10 @@ image: /assets/images/TorqueWrenchCover.png
 <div style="float: top; margin-left: 15px;">
   <img src="{{ site.baseurl }}/assets/images/CAD_Model.jpeg" alt="CAD Photo" style="width: 350px">
 </div>
- **Material Used:**
- - Ti-6Al-4V
+**Material Used:**
+ The material that was chosen was Ti-6Al-4V. This was picked for its light weight and high yield strength. It has a relatively high Young's modulus, and was determined by my MATLAB script to meet all the requirements of the design.
  
- Material Properties:
+**Material Properties:**
  - $E = 17.3e3 psi$
  - $\nu = 0.37$
 
@@ -39,7 +39,7 @@ style="width:
 600px">
 </div>
 <br style="clear: both;">
----
+
 **Below is a summary of my results from my FEM analysis:**
 - Maximum normal stress: $41884 psi$
 - Load point deflection: $0.29028in$
@@ -54,4 +54,4 @@ style="width:
 600px">
 </div>
 <br style="clear: both;">
-Finally, the strain gauge I selected for this wrench is the Omega SGD-2/350-LY13. It has dimensions of 2 mm x 2.5 mm which converts to 0.0787 in x 0.0984 in, meaning there is plenty of room for it to fit on the design.
+Finally, the strain gauge I selected for this wrench is the Omega SGD-2/350-LY13. It has dimensions of $2 mm x 2.5 mm$ which converts to $0.0787 in x 0.0984 in$, meaning there is plenty of room for it to fit on the design.
