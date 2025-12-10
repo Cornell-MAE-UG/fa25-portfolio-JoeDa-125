@@ -3,25 +3,44 @@ layout: project
 title: Torque Wrench Design and Analysis
 description: Class project with Graphs
 technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+image: /assets/images/TorqueWrenchCover.png
 ---
 
-![CAD_Photo]({{ site.baseurl }}/assets/
-images/CAD_Model.jpeg){: .inline-image-l}
+<div style="float: top; margin-left: 15px;">
+  <img src="{{ site.baseurl }}/assets/images/CAD_Model.jpeg" alt="CAD Photo" style="width: 350px">
+</div>
+ **Material Used:**
+ - Ti-6Al-4V
+ 
+ Material Properties:
+ - $E = 17.3e3psi$
+ - $\nu = 0.37$
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+The images below depeicts how laods and boundary conditions were applied to my fem model.
 
+<div style="float: left; margin-left: 0px;">
+  <img src="{{ site.baseurl }}/assets/images/
+ANSYS_Loading.png" alt="ANSYS Photo" style="width: 600px">
+</div>
+Next is the FEM anlysis output of my normal strain in the gauge direction.
+<div style="float: left; margin-left: 0px;">
+  <img src="{{ site.baseurl }}/assets/images/
+Normal_Strain.png" alt="ANSYS Photo 2" style="width: 
+600px">
+</div>
+Next, I plotted the contours of the maximum principal stress found in my model.
+<div style="float: left; margin-left: 0px;">
+  <img src="{{ site.baseurl }}/assets/images/
+MPrin_Stress.png" alt="ANSYS Photo 3" 
+style="width: 
+600px">
+</div>
+SUMMARIZE RESULTS BELOW
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
+The torque wrench sensitivity in mV/V from my FEM anlysis was $1306.7\mu\epsilon$
+<div style="float: left; margin-left: 0px;">
+  <img src="{{ site.baseurl }}/assets/images/
+Strain_Probe.png" alt="ANSYS Photo 4" 
+style="width: 
+600px">
+</div>
