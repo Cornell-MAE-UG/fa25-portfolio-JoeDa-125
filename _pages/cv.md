@@ -38,6 +38,11 @@ With expertise in modeling and simulation, I aim to expand my skill set by takin
 ---
 
 #### Projects
+- **Cornell Electric Vehicles**:               
+  *Member of the chassis subteam. Supported the construction of carbon fiber monocoque through sanding, spraying, and laying up on high density foam molds, ensuring good carbon quality and structural integrity.*
+  - Executed carbon-fiber layups: mold prep, Duratek spray, resin ratios, and precise fiber placement
+  - Prepared and sanded molds to exact tolerances, yielding smoother surface finish and stronger fiber bonds
+  
 - **CFD Simulations Using ANSYS**:  
   *Self taught ANSYS fluent through online courses and other resources. Used my skills to simulate airflow around CEV designs. This analysis was used study areas where future designs could have improved efficiency.*  
   - Successfully simulated complex geometries and validated results with real world testing.
