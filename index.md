@@ -6,7 +6,7 @@ title: Joseph Dalton
 ## About Me
 
 
-![Profile Picture]({{"assets/images/profile-pic.jpg"}}){: class="profile-image"}
+![Profile Picture]({{"assets/images/profile-pic.png"}}){: class="profile-image"}
 
  
 Hello! My name is Joseph Dalton. I'm an 
